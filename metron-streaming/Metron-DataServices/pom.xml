@@ -26,7 +26,7 @@
 	<properties>
 		<slf4j.version>1.6.4</slf4j.version>
 		<commons-configuration.version>1.10</commons-configuration.version>
-		<commons-beanutils.version>1.8.3</commons-beanutils.version>
+		<commons-beanutils.version>1.9.4</commons-beanutils.version>
 		<commons-jexl.version>2.1.1</commons-jexl.version>
 		<spring.integration.version>3.0.0.RELEASE</spring.integration.version>
 		<spring.version>3.2.6.RELEASE</spring.version>
