@@ -35,7 +35,7 @@
 		<storm-hbase.version>0.0.5-SNAPSHOT</storm-hbase.version>
 
 		<spring.integration.version>3.0.0.RELEASE</spring.integration.version>
-		<spring.version>3.2.6.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<commons-fileupload.version>1.2.2</commons-fileupload.version>
 		<commons-io.version>2.4</commons-io.version>
 		<commons-configuration.version>1.10</commons-configuration.version>
